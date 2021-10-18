@@ -32,8 +32,6 @@ Live chat activity indicator. (Also: live audience web-cam in the chat.)
 
 ![Live Feed](https://github.com/jeremygit/Gummi/blob/main/assets/6b6b376663114c039ba323ed382ae7c0.gif?raw=true)
 
-![Live Feed](https://github.com/jeremygit/Gummi/blob/main/assets/6b6b376663114c039ba323ed382ae7c0.gif?raw=true)
-
 ![Live DJ](https://github.com/jeremygit/Gummi/blob/main/assets/A2CA3613-152B-41EB-AF02-6A70A0368C2C.JPG?raw=true)
 
 ![Live DJ](https://github.com/jeremygit/Gummi/blob/main/assets/DFC22682-1A67-4C3A-A721-6B6737805653.jpg?raw=true)
