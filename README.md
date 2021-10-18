@@ -1,4 +1,8 @@
 # Gummi
+RTMP live streaming platform and NFT trading platform.
+
+### Gummi (GUMMI) NFT/ERC721 contract - with in-built trading capability.
+https://ropsten.etherscan.io/token/0xC801252fAc6e6CEc69959c661Cd1294B0C52f042
 
 ![Live](https://github.com/jeremygit/Gummi/blob/main/assets/6bb7f7c6369748489526a999b1240f59.gif?raw=true)
 
