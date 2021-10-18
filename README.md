@@ -2,6 +2,7 @@
 RTMP live streaming platform and NFT trading platform.
 
 ### Gummi (GUMMI) NFT/ERC721 contract - with in-built trading capability.
+For the purpose of users 'owning' archived digital stream audio/video footage.
 https://ropsten.etherscan.io/address/0xC801252fAc6e6CEc69959c661Cd1294B0C52f042
 
 ### Documents
