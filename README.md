@@ -9,10 +9,13 @@ https://ropsten.etherscan.io/address/0xC801252fAc6e6CEc69959c661Cd1294B0C52f042
 ![Live](https://github.com/jeremygit/Gummi/blob/main/assets/6bb7f7c6369748489526a999b1240f59.gif?raw=true)
 
 ![Pro-DJ-Link Cloud](https://github.com/jeremygit/Gummi/blob/main/assets/pro-dj-link-dataflow.png?raw=true)
+Live Pioneer XDJ/Rekordbox track-data feed via RPi/WebSockets.
 
 ![Live](https://github.com/jeremygit/Gummi/blob/main/assets/3d372e890d534f49963cd80fd08a55b6.gif?raw=true)
+Live PayPal donations.
 
 ![Live](https://github.com/jeremygit/Gummi/blob/main/assets//b104d6ad61ec4cf4b8b2b49b9c7d86ed.gif?raw=true)
+Live chat activity indicator. (Also: live audience web-cam in the chat.)
 
 ![Gummi small screen](https://github.com/jeremygit/Gummi/blob/main/assets/0DCE0249-4D22-4542-AEF3-3687E3AA6182.JPG?raw=true "Gummi small screen")
 
