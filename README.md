@@ -1,5 +1,5 @@
 # Gummi
-RTMP live streaming platform and NFT trading platform.
+MERN-stack RTMP live streaming platform and NFT trading platform.
 
 ### Gummi (GUMMI) NFT/ERC721 contract - with in-built trading capability.
 For the purpose of giving users the ability to 'own' archived digital stream audio/video footage while generating revenue for artists.
